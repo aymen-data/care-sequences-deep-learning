@@ -1,0 +1,70 @@
+{
+  "patient_splits_disjoint": true,
+  "all_training_classes_present": true,
+  "target_support": {
+    "train": [
+      9856,
+      9500,
+      728,
+      682,
+      690,
+      3988,
+      10200,
+      1845,
+      1687,
+      2014,
+      3574,
+      3366,
+      3418,
+      1613
+    ],
+    "validation": [
+      2082,
+      2017,
+      152,
+      149,
+      149,
+      864,
+      2168,
+      383,
+      340,
+      437,
+      732,
+      743,
+      733,
+      327
+    ],
+    "test": [
+      2100,
+      2002,
+      160,
+      148,
+      142,
+      828,
+      2180,
+      373,
+      339,
+      394,
+      768,
+      735,
+      670,
+      325
+    ]
+  },
+  "events": [
+    "GENERALISTE",
+    "BIOLOGIE",
+    "CARDIOLOGIE",
+    "PNEUMOLOGIE",
+    "ORTHOPEDIE",
+    "IMAGERIE",
+    "PHARMACIE",
+    "URGENCES",
+    "HOSPITALISATION",
+    "REEDUCATION",
+    "SUIVI_CARDIO",
+    "SUIVI_PNEUMO",
+    "SUIVI_ORTHO",
+    "RETOUR_DOMICILE"
+  ]
+}

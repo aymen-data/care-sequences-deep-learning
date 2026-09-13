@@ -1,0 +1,35 @@
+{
+  "padding_id": 0,
+  "token_to_id": {
+    "GENERALISTE": 1,
+    "BIOLOGIE": 2,
+    "CARDIOLOGIE": 3,
+    "PNEUMOLOGIE": 4,
+    "ORTHOPEDIE": 5,
+    "IMAGERIE": 6,
+    "PHARMACIE": 7,
+    "URGENCES": 8,
+    "HOSPITALISATION": 9,
+    "REEDUCATION": 10,
+    "SUIVI_CARDIO": 11,
+    "SUIVI_PNEUMO": 12,
+    "SUIVI_ORTHO": 13,
+    "RETOUR_DOMICILE": 14
+  },
+  "target_class": {
+    "GENERALISTE": 0,
+    "BIOLOGIE": 1,
+    "CARDIOLOGIE": 2,
+    "PNEUMOLOGIE": 3,
+    "ORTHOPEDIE": 4,
+    "IMAGERIE": 5,
+    "PHARMACIE": 6,
+    "URGENCES": 7,
+    "HOSPITALISATION": 8,
+    "REEDUCATION": 9,
+    "SUIVI_CARDIO": 10,
+    "SUIVI_PNEUMO": 11,
+    "SUIVI_ORTHO": 12,
+    "RETOUR_DOMICILE": 13
+  }
+}

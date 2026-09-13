@@ -1,0 +1,27 @@
+{
+  "synthetic_only": true,
+  "warning": "Démonstration du générateur fictif, aucune recommandation de soins.",
+  "history_used": [
+    "GENERALISTE",
+    "BIOLOGIE",
+    "CARDIOLOGIE",
+    "PHARMACIE",
+    "GENERALISTE",
+    "BIOLOGIE"
+  ],
+  "context_truncated": false,
+  "top3": [
+    {
+      "event": "SUIVI_CARDIO",
+      "probability": 0.9462197422981262
+    },
+    {
+      "event": "BIOLOGIE",
+      "probability": 0.022693326696753502
+    },
+    {
+      "event": "GENERALISTE",
+      "probability": 0.011736809276044369
+    }
+  ]
+}

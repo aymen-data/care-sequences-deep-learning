@@ -1,0 +1,24 @@
+{
+  "synthetic": true,
+  "patients": 3000,
+  "events": 81601,
+  "data_seed": 2026,
+  "split_seed": 31,
+  "events_sha256": "163906df1bc22175855a4d605b7fd81d30e76b932df13a3bad48e3dcd8a8f82e",
+  "splits": {
+    "train": {
+      "patients": 2100,
+      "examples": 53161
+    },
+    "validation": {
+      "patients": 450,
+      "examples": 11276
+    },
+    "test": {
+      "patients": 450,
+      "examples": 11164
+    }
+  },
+  "features": "types des événements passés uniquement ; dates utilisées pour l'ordre, pas comme entrée du modèle",
+  "limitations": "Règles inventées, pas de calibration médicale ; patients test nouveaux, même générateur."
+}

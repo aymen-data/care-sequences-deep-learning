@@ -1,0 +1,19 @@
+{
+  "patients": 3000,
+  "data_seed": 2026,
+  "split_seed": 31,
+  "model_seeds": [7, 17, 27],
+  "max_context": 24,
+  "min_context": 2,
+  "d_model": 32,
+  "heads": 4,
+  "layers": 2,
+  "feedforward": 64,
+  "dropout": 0.1,
+  "batch_size": 256,
+  "epochs": 8,
+  "patience": 3,
+  "learning_rate": 0.001,
+  "threads": 4,
+  "bootstrap_repeats": 1000
+}

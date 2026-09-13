@@ -1,0 +1,134 @@
+[
+  {
+    "patient": "SYN_00006",
+    "history": [
+      "GENERALISTE",
+      "BIOLOGIE"
+    ],
+    "actual_next": "PNEUMOLOGIE",
+    "top3": [
+      {
+        "event": "ORTHOPEDIE",
+        "probability": 0.3944983184337616
+      },
+      {
+        "event": "CARDIOLOGIE",
+        "probability": 0.3044210970401764
+      },
+      {
+        "event": "PNEUMOLOGIE",
+        "probability": 0.2975037693977356
+      }
+    ]
+  },
+  {
+    "patient": "SYN_00007",
+    "history": [
+      "GENERALISTE",
+      "BIOLOGIE"
+    ],
+    "actual_next": "PNEUMOLOGIE",
+    "top3": [
+      {
+        "event": "ORTHOPEDIE",
+        "probability": 0.3944983184337616
+      },
+      {
+        "event": "CARDIOLOGIE",
+        "probability": 0.3044210970401764
+      },
+      {
+        "event": "PNEUMOLOGIE",
+        "probability": 0.2975037693977356
+      }
+    ]
+  },
+  {
+    "patient": "SYN_00018",
+    "history": [
+      "GENERALISTE",
+      "BIOLOGIE"
+    ],
+    "actual_next": "PNEUMOLOGIE",
+    "top3": [
+      {
+        "event": "ORTHOPEDIE",
+        "probability": 0.3944983184337616
+      },
+      {
+        "event": "CARDIOLOGIE",
+        "probability": 0.3044210970401764
+      },
+      {
+        "event": "PNEUMOLOGIE",
+        "probability": 0.2975037693977356
+      }
+    ]
+  },
+  {
+    "patient": "SYN_00021",
+    "history": [
+      "GENERALISTE",
+      "BIOLOGIE"
+    ],
+    "actual_next": "CARDIOLOGIE",
+    "top3": [
+      {
+        "event": "ORTHOPEDIE",
+        "probability": 0.3944983184337616
+      },
+      {
+        "event": "CARDIOLOGIE",
+        "probability": 0.3044210970401764
+      },
+      {
+        "event": "PNEUMOLOGIE",
+        "probability": 0.2975037693977356
+      }
+    ]
+  },
+  {
+    "patient": "SYN_00025",
+    "history": [
+      "GENERALISTE",
+      "BIOLOGIE"
+    ],
+    "actual_next": "CARDIOLOGIE",
+    "top3": [
+      {
+        "event": "ORTHOPEDIE",
+        "probability": 0.3944983184337616
+      },
+      {
+        "event": "CARDIOLOGIE",
+        "probability": 0.3044210970401764
+      },
+      {
+        "event": "PNEUMOLOGIE",
+        "probability": 0.2975037693977356
+      }
+    ]
+  },
+  {
+    "patient": "SYN_00031",
+    "history": [
+      "GENERALISTE",
+      "BIOLOGIE"
+    ],
+    "actual_next": "CARDIOLOGIE",
+    "top3": [
+      {
+        "event": "ORTHOPEDIE",
+        "probability": 0.3944983184337616
+      },
+      {
+        "event": "CARDIOLOGIE",
+        "probability": 0.3044210970401764
+      },
+      {
+        "event": "PNEUMOLOGIE",
+        "probability": 0.2975037693977356
+      }
+    ]
+  }
+]
