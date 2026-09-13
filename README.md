@@ -1,4 +1,4 @@
-# Séquences de soins — Deep Learning
+# Care Sequences — Deep Learning for Healthcare Event Sequences
 
 Projet 2 du portfolio : transformer un historique d’événements en entrée d’un petit Transformer et prédire le **type du prochain événement**.
 
